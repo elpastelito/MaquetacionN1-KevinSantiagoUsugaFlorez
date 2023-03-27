@@ -1,0 +1,350 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.center {
+    background-color: rgb(227, 231, 231);
+    width: 730px;
+    height: 100%;
+    float: left;
+}
+
+.img-center {
+    background-image: url("img/main_img.webp");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 11% auto 2%;
+    width: 95%;
+    height: 237px;
+    border-radius: 10px;
+    box-shadow: antiquewhite;
+}
+
+.img-into-text {
+    margin-top: 22.5%;
+    padding: 16px;
+    display: inline-block;
+}
+
+.Garantia {
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.Title-img-center {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+.div-center-left {
+    background-color: white;
+    margin: 0 0.5% 0 2%;
+    float: left;
+    padding: 2%;
+    width: 46.5%;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.div-center-left-title-style {
+    color: rgb(66, 66, 66);
+}
+
+.div-center-left-second {
+    height: 40px;
+    margin: 6px auto;
+}
+
+.div-center-left-id {
+    width: 40%;
+    height: 40px;
+    float: left;
+}
+
+.div-center-left-idc {
+    width: 60%;
+    height: 40px;
+    float: left;
+}
+
+.div-center-left-name {
+    height: 40px;
+    margin: 6px auto;
+}
+
+.div-center-left-email {
+    height: 40px;
+    margin: 6px auto;
+}
+
+.div-center-left-mark {
+    height: 70px;
+    margin: 6px auto;
+}
+
+.img-mark {
+    background-image: url("img/pngegg.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 54px;
+    width: 50%;
+}
+
+.text-left-title {
+    color: rgb(59, 59, 59);
+    font-family: sans-serif;
+}
+
+.textleft {
+    color: rgb(100, 100, 100);
+    font-family: sans-serif;
+}
+
+.btn {
+    background-color: white;
+    border-color: rgb(110, 110, 110);
+    width: 100%;
+    padding: 1.5%;
+    font-weight: bolder;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.div-center-right {
+    background-color: white;
+    margin: 0 0.5% 0 2%;
+    float: left;
+    padding: 3%;
+    width: 46.5%;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.div-center-right-text {
+    width: 100%;
+    height: 225px;
+    margin-bottom: 6px;
+}
+
+.div-center-right-time {
+    width: 100%;
+    height: 170px;
+}
+
+.div-center-right-time-text {
+    height: 70px;
+    padding-top: 10%;
+    padding-left: 20%;
+    color: rgb(128, 127, 127);
+}
+
+.time-text-3 {
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+.div-center-right-time-watch {
+    padding-top: 1% ;
+    padding-left: 20%;
+}
+
+.ppp {
+    padding-left: 10px;
+    width: 30%;
+    float: left;
+}
+
+.ppp1 {
+    width: 30%;
+    float: left;
+}
+
+.watch {
+    color: rgb(71, 71, 71);
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+.hr1 {
+    width: 40%;
+    height: 5px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: 0;
+    margin-top: 15px;
+    margin-bottom: 6px;
+    border-radius: 3px;
+    float: left;
+    background-color: rgb(134, 77, 7);
+}
+
+.hr2 {
+    width: 60%;
+    height: 5px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: 0;
+    margin-top: 15px;
+    margin-bottom: 6px;
+    border-radius: 3px;
+    float: left;
+    background-color: rgb(211, 211, 211);
+}
+
+.div-center-right-chart {
+    width: 100%;
+    height: 55px;
+}
+
+.div-chart-text-left {
+    width: 50%;
+    float: left;
+}
+
+.div-chart-text-right {
+    width: 50%;
+    padding-left: 41%;
+    float: left;
+}
+
+.text-chart {
+    color: rgb(63, 63, 63);
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 11px;
+}
+
+.right {
+    width: 306px;
+    height: 100%;
+    float: left;
+}
+
+.img-right {
+    background-image: url("img/right_img.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 26% auto 3%;
+    width: 90%;
+    height: 237px;
+    border-radius: 10px;
+    box-shadow: antiquewhite;
+}
+
+.img-right-text {
+    margin-top: 56.5%;
+    padding: 16px;
+    display: inline-block;
+}
+
+.img-right-text-bolder {
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.img-right-text-lighter {
+    color: rgb(216, 214, 214);
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.div-right-test {
+    margin: 0 auto;
+    padding: 3%;
+    width: 95%;
+    height: 320px;
+}
+
+.div-right-test-title {
+    margin: 3px 0;
+}
+
+.div-right-test-title-letter {
+    color: rgb(46, 46, 46);
+    font-family: sans-serif;
+}
+
+.box-description {
+    height: 50px;
+    width: 99.5%;
+    margin: 6% auto;
+}
+
+.little-img-right1 {
+    background-image: url("img/reunion1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+    width: 25%;
+    float: left;
+    border-radius: 8px;
+}
+
+.little-img-right2 {
+    background-image: url("img/reunion2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+    width: 25%;
+    float: left;
+    border-radius: 8px;
+}
+
+.little-img-right3 {
+    background-image: url("img/reunion3.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+    width: 25%;
+    float: left;
+    border-radius: 8px;
+}
+
+.little-img-right4 {
+    background-image: url("img/reunion4.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+    width: 25%;
+    float: left;
+    border-radius: 8px;
+}
+
+.box-into-description {
+    width: 75%;
+    height: 50px;
+    padding-left: 7px;
+    float: left;
+}
+
+.box-into-description-title {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px;
+}
+
+.box-into-description-time {
+    color: rgb(26, 23, 23);
+}
+
+.test-right {
+    color: rgb(116, 116, 116);
+}
